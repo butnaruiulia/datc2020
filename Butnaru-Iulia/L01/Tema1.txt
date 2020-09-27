@@ -1,0 +1,7 @@
+NETFLIX
+
+- infiintata 29 august 1997, Scotts Valley, California, Statele Unite
+- ofera o bibliotecă de filme și programe de televiziune, inclusiv cele produse în cadrul companiei
+- inițial Netflix includea vânzările de DVD-uri și de închiriere prin e-mail
+- în 2017 a avut o perioadă de uptime de 99,97% si scopul e sa ajunga la 99,99%
+- peste 180 de milioane de abonati in prezent
